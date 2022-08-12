@@ -15,7 +15,7 @@ INPUT input[1];
 #define YL VK_OEM_PLUS
 
 // Offset
-#define DTIMER 2000
+#define DTIMER 500
 #define WAITTIMER 0
 
 typedef struct {
